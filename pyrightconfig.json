@@ -1,0 +1,8 @@
+{
+  "stubPath": "typings",
+  "pythonPlatform": "Linux",
+  "typeCheckingMode": "standard",
+  "strict": ["."],
+  "disableBytesTypePromotions": true,
+  "reportPrivateImportUsage": false,
+}
